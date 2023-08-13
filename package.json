@@ -1,0 +1,17 @@
+{
+  "name": "backend-todo-list",
+  "version": "1.0.0",
+  "description": "Projeto ToDo List backend desenvolvido durante o curso StepOne - Introdução ao backend",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gadiego Nogueira",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.0"
+  }
+}
